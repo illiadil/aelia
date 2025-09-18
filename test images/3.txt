@@ -1,0 +1,2 @@
+Top left     : long -7.843685 lat 31.675258
+Bottom right : long -7.839114 lat 31.671578
