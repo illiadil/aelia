@@ -54,7 +54,7 @@ Once your environment is activated, you can run the main script. Provide the air
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. 🤝
+Any contributions you make are **greatly appreciated**. 
 
 1.  **Fork** the Project.
 2.  Create your Feature Branch (`git checkout -b feature/NewFeature`).
@@ -66,11 +66,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-This project is distributed under the **MIT License**. See the `LICENSE.md` file for more information.
+This project is distributed under the **GNU General Public License (GPL)  v3.0**. See the `LICENSE.md` file for more information.
 
 -----
 
 ## Contact
 
-  * **Main contact** - [A. Illi](mailto:a.illi.ced@uca.ac.mam)
+  * **Main contact** - [A. Illi : a.illi.ced@uca.ac.ma](mailto:a.illi.ced@uca.ac.ma)
   * For bugs or feature requests, please **open an issue** on the GitHub repository.
