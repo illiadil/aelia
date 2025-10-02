@@ -62,6 +62,13 @@ Any contributions you make are **greatly appreciated**.
 4.  Push to the Branch (`git push origin feature/NewFeature`).
 5.  Open a **Pull Request**.
 
+To ensure the code is clear and maintainable, we adhere to the following coding style guidelines:
+
+- Descriptive Naming: Variable and function names are chosen to clearly represent their real-world purpose (e.g., aircraft_altitude_ft instead of alt).
+- Standard Formatting: The code follows the standard Python PEP 8 style guide for indentation and formatting.
+- Comprehensive Commenting: Each logical block of code is preceded by a comment explaining its purpose and functionality.
+- Modular Functions: Functions are kept short and focused. Any function that becomes exceptionally long is refactored into smaller, more manageable sub-functions to improve readability and testing.
+
 -----
 
 ## License
